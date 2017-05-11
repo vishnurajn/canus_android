@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>102</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{131.226,590.423}</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-100</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>125</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{449.397,695.166}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.222,1.222}</string>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-99</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

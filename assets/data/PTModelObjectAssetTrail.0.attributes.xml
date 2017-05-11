@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>193</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTrail</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{329.220,490.724}</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>561</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTrail</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{329.220,490.724}</string>
+                </dict>
+                <key>Wave Height</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                </dict>
+                <key>zDepth</key>
+                <string>20</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
